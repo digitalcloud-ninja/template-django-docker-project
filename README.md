@@ -237,14 +237,14 @@ Link: [https://github.com/digitalcloud-ninja/template-django-docker-image](https
 
 [product-screenshot]: images/screenshot.png
 
-[Docker.io]: https://img.shields.io/badge/Docker-0769AD?style=for-the-badge&logo=docker&logoColor=white
+[Docker.io]: https://img.shields.io/badge/Docker-0A6DD7?style=for-the-badge&logo=docker&logoColor=white
 
 [Docker-url]: https://www.docker.com/
 
-[Django.js]: https://img.shields.io/badge/Django-20232A?style=for-the-badge&logo=django&logoColor=61DAFB
+[Django.js]: https://img.shields.io/badge/Django-0B4B33?style=for-the-badge&logo=django&logoColor=white
 
 [Django-url]: https://www.djangoproject.com/
 
-[Python.js]: https://img.shields.io/badge/Python-FFDF75?style=for-the-badge&logo=python&logoColor=234A6B
+[Python.js]: https://img.shields.io/badge/Python-1E2933?style=for-the-badge&logo=python&logoColor=white
 
 [Python-url]: https://www.python.org/
